@@ -33,7 +33,7 @@ button {
     font-weight: 600;
 }
 button:hover {
-    transform: scale(1.5);
+    transform: scale(1.2);
     background-color: white;
     cursor: pointer;
 
